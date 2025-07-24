@@ -1,0 +1,14 @@
+# Compiled binary
+# This is the executable file generated when we build the project.
+go-api-example
+
+# macOS specific files
+# These are automatically created by macOS and don't belong in the repository.
+**/.DS_Store
+
+# Environment variables file
+# This file often contains sensitive data and should not be committed.
+.env
+
+# Test coverage reports
+coverage.*
