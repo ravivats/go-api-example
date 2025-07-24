@@ -172,8 +172,8 @@ curl -X POST http://localhost:8080/transactions \
 - **Status:** `200 OK`
 - **Body:** Empty
 
-After these API calls, account ID 101 should have the amount 1550.70 in it 
-and account ID 102 should have the amount 750.25 in it.
+After these API calls, account ID 1001 should have the amount 1550.70 in it 
+and account ID 1002 should have the amount 750.25 in it. (which is the correct happy path behavior)
 
 ---
 
